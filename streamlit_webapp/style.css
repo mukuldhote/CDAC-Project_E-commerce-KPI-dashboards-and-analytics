@@ -1,0 +1,38 @@
+[data-testid=stMetric] {
+    box-shadow: 0 0 2px #070505;
+    padding: 1% 10%;
+    border-radius: 5px;
+}
+
+.plot-container>div {
+    box-shadow: 0 0 2px #070505;
+    
+    padding: 5px;
+    border-color: #000000;
+    
+   
+}
+
+div[data-testid="stExpander"] div[role="button"] p
+{
+    font-size: 1.2rem;
+    color:rgb(0, 0, 0);
+    border-color: #000000;
+    color-scheme: #000000;
+}
+
+.sidebar-content {
+    color: white;
+}
+
+[data-testid=stSidebar] {
+    color: white;
+     
+}
+
+[data-testid="stMetricValue"] {
+    font-size: 1.7rem; /* Adjust font size as needed */
+    }
+[data-testid="stMetricLabel"] {
+font-size: 1rem; /* Adjust label size */
+}
