@@ -13,21 +13,4 @@ To create a recommendation system to enhance customer experience.
 To create a web app to host the web app using streamlit.
 Technologies/frameworks/libraries:
 Python, Jupyter, Machine learning, Spark, Hive, HDFS, Streamlit, numpy, pandas, Matplotlib, seaborn, pyplot.
-
-Results:
-Dashboards:
-Trends:
-
- 
-
-Customer's preferences:
-
-   
-
-Geospatial:
-
-  
-
-Review:
-
  
